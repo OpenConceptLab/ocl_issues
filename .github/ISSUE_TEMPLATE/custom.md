@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: OCL issue template
 about: 'OCL Issue template '
 title: ''
 labels: ''
@@ -7,34 +7,35 @@ assignees: ''
 
 ---
 
-### Background and context
-###### Briefly describe the background or context of this user story. Include relevant links to documents or diagrams created in the planning phase, or dependencies.
+Issue tracker is **ONLY** used for reporting bugs. New features should be discussed with us on [OCL Chat](https://chat.openconceptlab.org/) or on one our slack channels.
 
-### User Story
-As a: type of OCL user - e.g. Dictionary manager, Publisher,
-I want: an action or feature,
-So that: benefit or reason.
+<!--- Provide a general summary of the issue in the Title above -->
 
-### Design: UX / UI documentation
-###### Attach links to Zeplin documentation
+## Expected Behavior
+<!--- Tell us what should happen -->
 
-### Dependencies
-###### Identify any dependencies or related tickets that must be completed before or alongside this task and link them in Zenhub.
+## Current Behavior
+<!--- Tell us what happens instead of the expected behavior -->
 
-### Technical Requirements 
-   - Specific technical requirements
-   - Any constraints
-   - Performance criteria
-   - Security considerations
-   - Integration points.
+## Possible Solution
+<!--- Not obligatory, but suggest a fix/reason for the bug, -->
 
-### Acceptance Criteria
-   - Given: context or scenario,
-      When: action taken,
-      Then: expected outcome or result.
+## Steps to Reproduce
+<!--- Provide a link to a live example, or an unambiguous set of steps to -->
+<!--- reproduce this bug. Include code to reproduce, if relevant -->
+1.
+2.
+3.
+4.
 
-### Testing Criteria 
-###### Outline specific testing criteria or scenarios to ensure the feature meets the user story requirements.
+## Context (Environment)
+<!--- How has this issue affected you? What are you trying to accomplish? -->
+<!--- Providing context helps us come up with a solution that is most useful in the real world -->
 
-### Notes, comments and assumptions
-###### Additional notes or comments for clarification, including potential risks or uncertainties.
+<!--- Provide a general summary of the issue in the Title above -->
+
+## Detailed Description
+<!--- Provide a detailed description of the change or addition you are proposing -->
+
+## Possible Implementation
+<!--- Not obligatory, but suggest an idea for implementing addition or change -->
