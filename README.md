@@ -1,9 +1,8 @@
 # ocl_issues
-Consolidated issues for all OCL repos.
+Consolidated issues for all OCL repositories.
 
-We use the ZenHub Browser Extension (Chrome or Firefox required) to manage OCL projects, epics, and tickets.  and open the [ZenHub boards](https://github.com/OpenConceptLab/ocl_issues/new/master?readme=1#boards) tab. The name of the board is OCL Roadmap. 
+We use [Projects](https://github.com/OpenConceptLab/Projects) to organize the community's roadmap into tickets, and all tickets are stored in this repo (see the [Issues](https://github.com/OpenConceptLab/ocl_issues/issues) tab).
 
-To view all open issues go to the [Issues](https://github.com/OpenConceptLab/ocl_issues/issues) tab.
+If you would like to report an issue, please first verify that it does not exist yet by searching from the [Issues](https://github.com/OpenConceptLab/ocl_issues/issues) tab. If you are sure it is a new issue, click [here](https://github.com/OpenConceptLab/ocl_issues/issues/new) to report it. An OCL community member will get back to you as soon as possible and may ask for more details, if needed.
 
-If you would like to report an issue, please first verify that it does not exist yet by searching from the [Issues](https://github.com/OpenConceptLab/ocl_issues/issues) tab. If you are sure it is a new issues, click [here](https://github.com/OpenConceptLab/ocl_issues/issues/new) and report it.
-We will get back to you as soon as possible and we may ask for more details, if needed. 
+NOTE: The OCL community previously used ZenHub Browser Extension in combination with GitHub tickets, but that is now deprecated.
