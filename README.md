@@ -17,7 +17,7 @@ NOTE: The OCL community previously used ZenHub Browser Extension in combination 
 ## **2. The Documentation "Parking Lot"**
 * **Preserving Knowledge:** Institutional knowledge is valuable, but it shouldn't "gunk up" the active backlog. 
 * **Markdown-Based Repos:** Future ideas and complex "institutional memory" belong in a dedicated documentation repository (using Markdown) rather than open GitHub issues.
-    * Public-facing documentation can live in this repo until ready for action: https://github.com/OpenConceptLab/upcoming-work-docs
+    * Public-facing documentation can live in this repo until ready for action: [OCL Knowledge Base repository](https://github.com/OpenConceptLab/ocl-kb/)
     * Private documentation can reside in a dedicated repo until ready for action. 
 * **Precursor to Projects:** Documentation serves as the "parking lot" or precursor where ideas are fleshed out before becoming actionable tickets.
 
