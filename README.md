@@ -27,3 +27,7 @@ NOTE: The OCL community previously used ZenHub Browser Extension in combination 
 
 # The Core Goal
 To ensure the board is scannable and actionable at a glance, while keeping our best ideas safe in a searchable "library" elsewhere.
+
+## The OCL Digital Public Good
+
+This issue tracker is not part of the [OCL Digital Public Good](https://github.com/OpenConceptLab/.github/blob/main/DIGITAL-PUBLIC-GOOD.md). That page lists the repositories that are.
